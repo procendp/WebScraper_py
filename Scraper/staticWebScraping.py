@@ -3,6 +3,7 @@
 #  - request
 #  - BeautifulSoup
 #######################
+
 import requests
 from bs4 import BeautifulSoup
 
@@ -54,8 +55,6 @@ for x in range(totalPages):
 
 print(len(allJobs))
 # url = "https://weworkremotely.com/categories/remote-full-stack-programming-jobs"
-
-
 
 # print(allJobs)
 
