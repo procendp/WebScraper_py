@@ -2,4 +2,4 @@
 
  - learning Python
  - practicing Python skills
- - making simple web scraper
+ - making simple web scraper (static, dynamic)
